@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Kinema profile icon</title>
+  <circle cx="512" cy="512" r="452" fill="#2E6FC9"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="54" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M410 332V692"/>
+    <path d="M410 512L660 332"/>
+    <path d="M410 512L660 692"/>
+  </g>
+  <circle cx="410" cy="512" r="62" fill="#FFFFFF"/>
+  <g fill="#2E6FC9" stroke="#FFFFFF" stroke-width="44">
+    <circle cx="410" cy="332" r="38"/>
+    <circle cx="410" cy="692" r="38"/>
+    <circle cx="660" cy="332" r="38"/>
+    <circle cx="660" cy="692" r="38"/>
+  </g>
+</svg>
